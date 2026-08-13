@@ -20,7 +20,7 @@ PitchPointLabs/
 
 - Node.js (v18+ recommended)
 - npm
-- A MongoDB instance (local or hosted, e.g. MongoDB Atlas)
+- A MySQL database (local or hosted, e.g. PlanetScale, Railway, AWS RDS)
 - An email account for sending mail (e.g. Gmail with an App Password)
 
 ## Setup
